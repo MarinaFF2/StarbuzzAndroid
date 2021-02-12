@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StarBuzz</string>
+    <string name="logo_starbuzz">Logo Starbuzz</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="title_foodCategoria">List of foods</string>
+    <string name="title_storeCategoria">List of stores</string>
+    <string name="title_drinkCategoria">List of drinks</string>
+    <string name="title_newOrderDrink">Order of drinks</string>
+    <string name="title_newOrderFood">Order of foods</string>
+    <string name="title_order">Your order is</string>
+    <string name="button_save">Save</string>
+    <string name="button_validar">Validar</string>
+    <string name="toast_validar">Su pedido se esta preprando</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>

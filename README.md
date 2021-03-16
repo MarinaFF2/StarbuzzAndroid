@@ -1,5 +1,6 @@
 # StarbuzzAndroid
 En este proyecto trata de una aplicación donde puede pedir comida y bebida, y ver que otras tiendas hay.
+
 En la pantalla de inicio puedes decidir si quieres algo relacionado con la comida, bebida o tiendas.
 
 ![imagen](https://user-images.githubusercontent.com/56149516/111309591-5e2c3200-865c-11eb-8c87-e3ef79a948ab.png)
